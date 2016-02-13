@@ -1,0 +1,22 @@
+{
+  "name": "CLEditor",
+  "homepage": "https://github.com/aureltime/cleditor",
+  "authors": [
+    "Aureltime <aureltime@gmail.com>"
+  ],
+  "description": "",
+  "main": "jquery.cleditor.js",
+  "moduleType": [],
+  "keywords": [
+    "jquery",
+    "cleditor"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
