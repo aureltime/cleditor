@@ -1,8 +1,4 @@
 {
   "name": "cleditor",
-  "version": "1.4.5",
-  "repository": {
-      "type": "git",
-      "url": "git://github.com/aureltime/cleditor.git"
-  }
+  "version": "1.4.5"
 }
